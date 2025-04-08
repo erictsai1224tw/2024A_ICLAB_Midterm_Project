@@ -1,2 +1,2 @@
-# 2024A_ICLAB_Midterm_Project
+# 2024A ICLAB Midterm Project
 NYCUEE ICLAB 2024 Autumn Midterm Project
